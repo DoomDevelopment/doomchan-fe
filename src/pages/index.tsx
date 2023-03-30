@@ -1,9 +1,9 @@
 const Home = () => {
   return (
     <>
-      <div className="font-bold">Hello world</div>
+      <div className="relative font-bold">Hello world</div>
     </>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home
